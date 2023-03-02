@@ -1,0 +1,51 @@
+.mybox{
+    background-color: darkturquoise;
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.sol{
+    width: 80%;
+    height: 200px;
+    background-image: linear-gradient(yellow, green);
+    margin: 25px;
+    border: 8px solid rgb(141, 237, 23);
+    border-radius: 10px;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    background-color: lightblue;
+    color: blue;
+    width: 20%;
+    border: 5px solid red;
+    border-top-right-radius: 25%;
+    border-bottom-left-radius: 25%;
+    height: 40px;
+}
+h2{
+    text-align: center;
+}
+a{
+    color: rgb(9, 123, 194);
+    width: 100px;
+    height: 20px;
+    margin-left: 35%;
+    background-color: blue;
+    font-size: 30px;
+    color: white;
+    margin-bottom: 20px;
+}
+pre{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: green;
+    width: 99%;
+    height: 500px;
+    font-size: 30px;
+    border: 8px solid yellow;
+}
